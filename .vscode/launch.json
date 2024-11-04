@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "coreclr",
+            "request": "launch",
+            "name": "Launch SMSystem",
+            "program": "${workspaceFolder}/SMSystem/bin/Debug/netcoreapp3.1/SMSystem.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/SMSystem",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "type": "coreclr",
+            "request": "launch",
+            "name": "Launch SMSystem",
+            "program": "${workspaceFolder}/SMSystem/bin/Debug/netcoreapp3.1/SMSystem.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/SMSystem",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "type": "coreclr",
+            "request": "launch",
+            "name": "Launch SMSystem",
+            "program": "${workspaceFolder}/SMSystem/bin/Debug/netcoreapp3.1/SMSystem.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/SMSystem",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        }
+    ]
+}
